@@ -27,7 +27,7 @@ if [ "$CHATGPT_ON_WECHAT_CONFIG_PATH" == "" ] ; then
     CHATGPT_ON_WECHAT_CONFIG_PATH=$CHATGPT_ON_WECHAT_PREFIX/config.json
 fi
 
-# CHATGPT_ON_WECHAT_EXEC is empty, use ‘python app.py’
+# CHATGPT_ON_WECHAT_EXEC is empty, use ‘python main.py’
 if [ "$CHATGPT_ON_WECHAT_EXEC" == "" ] ; then
     CHATGPT_ON_WECHAT_EXEC="python app.py"
 fi
