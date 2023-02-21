@@ -1,5 +1,5 @@
 {
-  "open_ai_api_key": "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",
+  "open_ai_api_key": "xxxxxxxxxxxxx",
   "single_chat_prefix": ["", "@FishBOT"],
   "single_chat_reply_prefix": "",
   "group_chat_prefix": ["@bot"],
